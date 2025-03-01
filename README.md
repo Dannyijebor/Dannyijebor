@@ -1,6 +1,6 @@
 ---
 
-# Hi, I'm Daniel! 👋  
+# Hi, I'm Daniel Ijebor! 👋  
 ## **Programmer | UI/UX Designer**  
 
 ### **🖥️ Featured Projects**  
