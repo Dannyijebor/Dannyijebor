@@ -1,5 +1,3 @@
-Here’s a more professional and polished version of your portfolio README:  
-
 ---
 
 # Hi, I'm Daniel! 👋  
