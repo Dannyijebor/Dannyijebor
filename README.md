@@ -29,7 +29,7 @@
 🌍 **[IJAN Africa Website](https://github.com/Dannyijebor/IJAN-Africa-Website-/tree/main)**  
 ✈️ **[Travel Booking Website](https://github.com/Dannyijebor/-Travel-Booking-Website/tree/main)**  
 🔒 **[Cybersecurity Vulnerability Scanner](https://github.com/Dannyijebor/Cybersecurity-Vulnerability-Scanner)**  
-📊 **[Data Visualization Dashboard for Decision Making](https://github.com/Dannyijebor/Data-Visualization-Dashboard)**  
+📊 **[Data Visualization Dashboard for Decision Making](https://github.com/Dannyijebor/-Data-Visualization-Dashboard-for-Decision-Making/tree/main)**  
 🏦 **[Secure Banking App Interface](https://github.com/Dannyijebor/Secure-Banking-App-Interface)**  
 
 ---
