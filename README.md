@@ -14,8 +14,7 @@
 
 #### **Web Development Projects**  
 - 🌍 **[IJAN Africa Website](https://github.com/Dannyijebor/IJAN-Africa-Website-/tree/main)**  
-- ✈️ **[Travel Booking Website](https://github.com/Dannyijebor/-Travel-Booking-Website/tree/main)**  
-
+- ✈️ **[Travel Booking Website](https://github.com/Dannyijebor/-Travel-Booking-Website/tree/main)**
 ---
 
 ## **📌 About Me**  
